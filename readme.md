@@ -1,9 +1,9 @@
 Forked from https://github.com/m3ng9i/ran
 
-Features List:
+**Features List**:
 
 
-Development Plan:
+**Development Plan**:
 - Account auto login
 - Mov and heic format playing online (Chrome & Safari)
 - Upload file
@@ -11,7 +11,7 @@ Development Plan:
 - Image and video preview
 
 
-==========================================================================================
+=============================================
 
 
 Ran: a simple static web server written in Go
