@@ -1,3 +1,18 @@
+Forked from https://github.com/m3ng9i/ran
+
+Features List:
+
+
+Development Plan:
+- Mov and heic supported(Chrome & safari)
+- Upload file
+- Multiple account with different folders
+- Image and video preview
+
+
+
+
+
 Ran: a simple static web server written in Go
 =============================================
 
