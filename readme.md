@@ -4,13 +4,14 @@ Features List:
 
 
 Development Plan:
-- Mov and heic supported(Chrome & safari)
+- Account auto login
+- Mov and heic format playing online (Chrome & Safari)
 - Upload file
 - Multiple account with different folders
 - Image and video preview
 
 
-
+==========================================================================================
 
 
 Ran: a simple static web server written in Go
